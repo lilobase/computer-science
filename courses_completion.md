@@ -211,9 +211,9 @@ Courses | Duration | Effort
 
 ### Machine Learning
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week
+Courses | Duration | Effort | Start date | End date | Completion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | 04/11/2015 | - | [In progress](MALE/)
 
 ### Natural Language Processing
 
