@@ -1,4 +1,4 @@
-# WEEK 1
+# Lecture Notes : Week 1
 
 ## Focused vs diffuse mode
 
