@@ -242,9 +242,14 @@ Courses | Duration | Effort
 
 # Additional Resources
 
-
 ### Learning
 
-Courses | Type | Completion
-:-- | :--: | :--: 
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | MOOC | in progress
+Courses | Type | Start date | End date |Completion
+:-- | :--: | :--: | :--: | :--:
+[Learning How to Learn][84] | MOOC | 3/11/2015 | - | [In progress](LHTL)
+
+### Software Engineering
+
+Courses | Type | Start date | End date |Completion
+:-- | :--: | :--: | :--: | :--:
+[Structure and Interpretation of Computer Programs][85] | Textbook | - | - |[In progress](SICP/)

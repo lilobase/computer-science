@@ -1,8 +1,17 @@
 
 ## Book
 
-### TextBook
+### Software engineering
 
-Title | Completion
-:-- | :--:
-[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) | [In progress](SICP/)
+Title
+:--
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+
+## Conference
+
+### Software architecture
+
+- Architecture the lost years
+- All the little thing (metz)
+- Simple made easy
+- 
