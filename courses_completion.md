@@ -49,9 +49,9 @@ Courses | Duration | Effort | Start date | End date | Completion
 
 ### Math (Mathematical Thinking)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
+Courses | Type | Start date | End date |Completion
+:-- | :--: | :--: | :--: | :--:
+[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week | 5/11/2015 | [In progress](ETTM/)
 
 ### Program Design
 
@@ -246,7 +246,7 @@ Courses | Duration | Effort
 
 Courses | Type | Start date | End date |Completion
 :-- | :--: | :--: | :--: | :--:
-[Learning How to Learn][84] | MOOC | 3/11/2015 | - | [In progress](LHTL)
+[Learning How to Learn][84] | MOOC | - | - | [In progress](LHTL)
 
 ### Software Engineering
 
