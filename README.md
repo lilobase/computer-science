@@ -32,11 +32,11 @@ In our curriculum, we gave preference to MOOC (Massive Open Online Course) style
 
 ## Becoming an OSS student
 
-To officially register for this course you must create a profile in our [students profile](https://github.com/open-source-society/computer-science-and-engineering/issues/180) issue.
+To officially register for this course you must create a profile in our [students profile](https://github.com/open-source-society/computer-science/issues/206) issue.
 
 > **"How can I do this?"**
 
-Comment in [this](https://github.com/open-source-society/computer-science-and-engineering/issues/180) issue  (please, do **not** open a new one) using the following template:
+Comment in [this](https://github.com/open-source-society/computer-science/issues/206) issue  (please, do **not** open a new one) using the following template:
 
 ```
 - **Name**: YOUR NAME
@@ -295,7 +295,7 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/course/nlp)| 10 weeks | 8-10 hours/week
+[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
 
 ### Big Data
 
@@ -361,7 +361,12 @@ The projects of all students will be listed in [this](https://github.com/open-so
 
 **You can create this project alone or with other students!**
 
-> Some project suggestions [here](https://github.com/karan/Projects) and [here](https://github.com/ericdouglas/app-specs).
+#### Project Suggestions
+
+- [Projects](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
+- [app-specs](https://github.com/ericdouglas/app-specs): A curated list of applications specifications and implementations to practice new technologies, improve your portfolio and sharpen your skills.
+- [FreeCodeCamp](http://www.freecodecamp.com/): Course that teaches you fullstack JavaScript development through a bunch of projects.
+- [JavaScript Projects](https://github.com/javascript-society/javascript-projects): List of projects related with the [JavaScript Path](https://github.com/javascript-society/javascript-path).
 
 And you should also...
 
@@ -413,7 +418,7 @@ The **only things** that you need to know are how to use **Git** and **GitHub**.
 
 ## Change Log
 
-**Curriculum Version**: `1.3.7`
+**Curriculum Version**: `1.3.9`
 
 To show **respect** to all of our students, we will keep a [CHANGELOG](CHANGELOG.md) file that contains all the alterations that our curriculum may suffer.
 
@@ -437,9 +442,9 @@ Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)
 
 Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
 
-You can also interact through [GitHub issues](https://github.com/open-source-society/computer-science-and-engineering/issues).
+You can also interact through [GitHub issues](https://github.com/open-source-society/computer-science/issues).
 
-We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science-and-engineering](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science-and-engineering?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
 
 Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
 
